@@ -30,7 +30,11 @@ Information Gap: Hidden bundle and pricing details.
 
 I focused on transforming the experience from "Cluttered" to "Customizable."
 
-FeatureAS-IS (Pain)TO-BE (Solution)Home UIFixed, cluttered layoutCustomizable categoriesLyricsStatic, small textReal-time syncing & resizable textControlSingle song selection onlyBulk selection & Drag-and-dropInfoHidden bundle pricesTransparent pricing guidance🎨 3. Design Identity & Deliverables
+FeatureAS-IS (Pain)TO-BE (Solution)Home UIFixed, cluttered layoutCustomizable categoriesLyricsStatic, small textReal-time syncing & resizable textControlSingle song selection onlyBulk selection & Drag-and-dropInfoHidden bundle pricesTransparent pricing guidance
+
+
+
+3. Design Identity & Deliverables
 
 Key Focus: Personalization, Convenience, and Visual Hierarchy.
 
@@ -44,7 +48,7 @@ Design System: Maintained YouTube’s brand identity while enhancing readability
 
 Research: SWOT, Competitor Benchmarking, Affinity Diagram.
 
-Strategy: Persona, Journey Map, IA.
+Strategy: Persona, Journey Map.
 
 Design: Wireframe → Storyboard → High-Fi Prototype.
 
