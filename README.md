@@ -8,7 +8,7 @@ A strategic redesign project focusing on improving UI efficiency and adding core
 
 🔗 Quick Links
 
-View Figma Prototype : https://www.figma.com/proto/WnKxVa8Jo3UYTCYeJicwoT/Youtube-Music---group-project?node-id=0-1&t=uhbgRCdJ8uYDBE58-1
+View Figma Prototype : [https://www.figma.com/proto/WnKxVa8Jo3UYTCYeJicwoT/Youtube-Music---group-project?node-id=0-1&t=uhbgRCdJ8uYDBE58-1](https://www.figma.com/proto/WnKxVa8Jo3UYTCYeJicwoT/Youtube-Music---group-project?node-id=6-11630&t=uhbgRCdJ8uYDBE58-1)
 View Full Case Study (PPT - Korean) : https://www.figma.com/proto/WnKxVa8Jo3UYTCYeJicwoT/Youtube-Music---group-project?node-id=0-1&t=uhbgRCdJ8uYDBE58-1
 
 
