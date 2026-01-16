@@ -4,6 +4,8 @@ YouTube Music UI/UX Redesign
 
 A strategic redesign project focusing on improving UI efficiency and adding core features based on user mental models.
 
+<img width="1920" height="1080" alt="youtube mockup" src="https://github.com/user-attachments/assets/f807ac5c-bac4-46c2-bfe7-99098f5af11b" />
+
 
 
 Quick Links
